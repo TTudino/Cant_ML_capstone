@@ -36,15 +36,15 @@ This aims to:
 To limit the size of this repository, the GLODAPv2 climatology dataset is not provided. 
 To obtain those data, please refer to https://www.glodap.info/, read the article [4] as above, or contact me directly.
 
-## Use ##
+# Use #
 
-# Initial analysis #
+## Initial analysis ##
 
 The initial analysis is summarised in the `capstone_project.pdf` file. 
 
 Please read it through and feel free to ask/suggest any change.
 
-# Code use #
+## Code use ##
 
 The code is provided as jupyter notebook (`ML_Cant_estimate.ipynb`) and python code (`ML_Cant_estimate.py`). Adjust the existing paths to data where necessary.
 
