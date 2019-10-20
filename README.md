@@ -38,14 +38,14 @@ To obtain those data, please refer to https://www.glodap.info/, read the article
 
 ## Use ##
 
+# Initial analysis #
+
 The initial analysis is summarised in the `capstone_project.pdf` file. 
 
 Please read it through and feel free to ask/suggest any change.
 
-The code used is also provided both as jupyter notebook (`ML_Cant_estimate.ipynb`) and a python code (`ML_Cant_estimate.py`).
+# Code use #
 
-Remember to adjust the initial paths to data where necessary.
+The code is provided as jupyter notebook (`ML_Cant_estimate.ipynb`) and python code (`ML_Cant_estimate.py`). Adjust the existing paths to data where necessary.
 
-The code is set to run on a small subset of data randomly extracted from the provided dataset. 
-
-Feel free to remove this limitations if your machine is powerful enough to deal with a bigger dataset. The result will improve.
+The code is set to run on a small subset of data randomly extracted from the provided dataset. Remove this limitations if your machine is powerful enough to deal with a bigger dataset. The results improve.
