@@ -33,7 +33,7 @@ This aims to:
 
 ## Dependencies ##
 
-The GLODAPv2 climatology dataset is too large to be provided on the Github page. Please refer to https://www.glodap.info/ and the article [4] above prior for getting and use the data. Feel free to contact me if necessary.
+The GLODAPv2 climatology dataset is too large to be provided on Github. Please refer to https://www.glodap.info/ and the article [4] above for getting and use the data. Feel free to contact me if necessary.
 
 # Use #
 
