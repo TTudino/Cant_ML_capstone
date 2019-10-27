@@ -39,7 +39,7 @@ The GLODAPv2 climatology dataset is too large to be provided on Github. Please r
 
 ## Initial analysis ##
 
-The initial analysis is summarised in the `capstone_project.pdf` file. 
+The initial analysis is summarised at https://medium.com/@tudinot/machine-learning-estimates-of-oceanic-anthropogenic-carbon-cant-82b3dc9951ec. 
 
 Please read it through and feel free to ask/suggest any change.
 
